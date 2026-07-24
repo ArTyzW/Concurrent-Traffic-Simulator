@@ -32,15 +32,3 @@ A POSIX-compliant multi-process traffic intersection simulation written in C. Th
 Bash
 ./run.sh
 Press Enter in the terminal to stop the simulation. The script will send a termination signal and automatically compare incrocio.txt and auto.txt to verify log consistency.
-
-
----
-
-### Per salvare e fare il push del README aggiornato:
-
-Se stai lavorando da terminale, esegui semplicemente:
-
-```bash
-git add README.md
-git commit -m "docs: update README with correct run.sh script name"
-git push origin main
