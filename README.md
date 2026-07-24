@@ -30,4 +30,4 @@ A POSIX-compliant multi-process traffic intersection simulation written in C. Th
 Run the simulation:
 
    ```Bash
-  ./run.sh
+./run.sh
