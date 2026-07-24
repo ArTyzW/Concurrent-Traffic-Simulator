@@ -27,7 +27,6 @@ A POSIX-compliant multi-process traffic intersection simulation written in C. Th
    ```bash
    chmod +x run.sh
 Run the simulation:
-
   '''bash
   
     ./run.sh
