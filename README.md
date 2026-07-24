@@ -29,6 +29,7 @@ A POSIX-compliant multi-process traffic intersection simulation written in C. Th
 Run the simulation:
 
   '''bash
+  
     ./run.sh
 
 Press Enter in the terminal to stop the simulation. The script will send a termination signal and automatically compare incrocio.txt and auto.txt to verify log consistency.
