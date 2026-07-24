@@ -1,3 +1,4 @@
+Markdown
 # Concurrent Traffic Simulator
 
 A POSIX-compliant multi-process traffic intersection simulation written in C. The project models real-time vehicle movement and right-of-way logic across a 4-way intersection using Linux Inter-Process Communication (IPC) primitives.
@@ -26,9 +27,7 @@ A POSIX-compliant multi-process traffic intersection simulation written in C. Th
 1. Make the execution script executable:
    ```bash
    chmod +x run.sh
-
-   Run the simulation:
+Run the simulation:
 
 Bash
 ./run.sh
-Press Enter in the terminal to stop the simulation. The script will send a termination signal and automatically compare incrocio.txt and auto.txt to verify log consistency.
