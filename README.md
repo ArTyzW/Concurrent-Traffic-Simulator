@@ -24,9 +24,10 @@ A POSIX-compliant multi-process traffic intersection simulation written in C. Th
 
 ## How to Run
 
-1. Make the execution script executable:
+Make the execution script executable:
    ```bash
    chmod +x run.sh
+
 Run the simulation:
 
    ```Bash
